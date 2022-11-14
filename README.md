@@ -15,8 +15,10 @@
 - lalu kita tambahkan +i pada for yang kedua, hal ini bertujuan untuk menambah 1 bintang setiap kode ditulis kebawah sehingga terlihat miring (lihat kode)
 - Tambahkan output tanpa garis baru ("*") pada kurung kurawal for loop kedua dan output kosong dengan menambahkan garis baru pada for loop pertama
 4. Buatlah susunan bintang separuh segitiga terbalik bawah lalu atas!
-![Screenshot (58)](https://user-images.githubu$sercontent.co.m/110644935/201674344-79bb0152-9881-474b-88e6-61361f2af90d.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/110644935/201688752-a9fe7ee8-151b-446f-8a24-91ea64930f11.png)
 - Pertama kita tambahkan 2 for loop, for pertama untuk menulis deret kebawah dan deret for kedua untuk menulis kesamping kanan.
 - Lalu tambahkan -i agar bintang berkurang seiring jumlah turun kebawah dan jangan lupa tambahkan ("*") dan garis baru pada masing-masing for dengan benar (lihat gambar soal 3)
 - Untuk susunan bintang setengah segitiga kedua dan ketiga bisa disesuaikan.
+- 
+
 
