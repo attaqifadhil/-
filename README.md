@@ -33,3 +33,5 @@ Attaqi Fadhil Arfianto XR4 (07)
 - Isi for loop tersebut dengan if yang berisi String variabel input dan variabel yang digunakan untuk for loop (tambahkan equalsIgnoreCase untuk memudahkan pengguna)
 - Lalu kita keluarkan nama, kelas, dan NISN menggunakan JOptionPane.
 - Bukan hanya nama, kita juga bisa mengeluarkan array tersebut dengan kelas maupun NISN.
+
+**Tugas Pak Arifin (pengumpulan hasil UKL)**
