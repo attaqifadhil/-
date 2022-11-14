@@ -1,5 +1,6 @@
 # Kumpulan UKL Rekayasa Perangkat Lunak
-Nama: Attaqi Fadhil aArifianto
+Attaqi Fadhil Arfianto XR4 (07)
+
 **1. Diketahui nilai awal 7, beda 10 tampilkan dari suku ke 7 hingga 10 dan jumlah deretnya!**
 ![Screenshot (69)](https://user-images.githubusercontent.com/110644935/201694226-e9cad06c-9c65-4f79-8b43-c53f90985c9b.png)
 - Pertama, kita deklarasikan dulu variabelnya (nilai awal, kelipatan, dan jumlah deret)
@@ -23,4 +24,12 @@ Nama: Attaqi Fadhil aArifianto
 - Pertama kita tambahkan 2 for loop, for pertama untuk menulis deret kebawah dan deret for kedua untuk menulis kesamping kanan.
 - Lalu tambahkan -i agar bintang berkurang seiring jumlah turun kebawah dan jangan lupa tambahkan ("*") dan garis baru pada masing-masing for dengan benar (lihat gambar soal 3)
 - Untuk susunan bintang setengah segitiga kedua dan ketiga bisa disesuaikan.
+
+**5.Buatlah data array berisi nama, absen, dan NISN**
 ![Screenshot (77)](https://user-images.githubusercontent.com/110644935/201694279-8cc80564-c0a1-4f34-8f9e-c60ec91ebdd9.png)
+- Tambahkan String input JOptionPane .
+- Tulis array berisi nama, absen, dan nisn.
+- Tambahkan for loop untuk menggambil data dari array tersebut.
+- Isi for loop tersebut dengan if yang berisi String variabel input dan variabel yang digunakan untuk for loop (tambahkan equalsIgnoreCase untuk memudahkan pengguna)
+- Lalu kita keluarkan nama, kelas, dan NISN menggunakan JOptionPane.
+- Bukan hanya nama, kita juga bisa mengeluarkan array tersebut dengan kelas maupun NISN.
