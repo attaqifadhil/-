@@ -1,4 +1,5 @@
 # Kumpulan UKL Rekayasa Perangkat Lunak
+Nama: Attaqi Fadhil aArifianto
 **1. Diketahui nilai awal 7, beda 10 tampilkan dari suku ke 7 hingga 10 dan jumlah deretnya!**
 ![Screenshot (69)](https://user-images.githubusercontent.com/110644935/201694226-e9cad06c-9c65-4f79-8b43-c53f90985c9b.png)
 - Pertama, kita deklarasikan dulu variabelnya (nilai awal, kelipatan, dan jumlah deret)
